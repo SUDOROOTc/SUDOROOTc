@@ -1,6 +1,6 @@
 # Cherif Amed DJOBO BOUKARI 👋
 
-**Je cherche un poste de Software Engineer.** Passionné par le code de qualité et les architectures propres, je construis des applications web et mobile de la modélisation jusqu'au déploiement.
+**Je suis Software Engineer**, passionné par le code de qualité et les architectures propres. Je construis des applications web et mobile, de la modélisation jusqu'au déploiement.
 
 Étudiant en L3 Technologie du Génie Informatique (Aube Nouvelle, Ouagadougou 🇧🇫), chef de projet sur plusieurs réalisations académiques et hackathons. Expérience backend solide (Django, API REST, Docker, TDD) acquise en stage chez Noor Next Gen IT.
 
